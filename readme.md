@@ -1,7 +1,6 @@
 # Important Libraries 
 
-- Simple Geo Library for PHP
-  
+- Simple Geo Library for PHP <br/>
   https://github.com/mjaschen/phpgeo 
 
 - Easily run code asynchronously
